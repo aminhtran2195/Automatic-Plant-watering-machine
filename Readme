@@ -1,1 +1,2 @@
-R
+MCU: ATMEGA328P
+Environment: PlatformIO
